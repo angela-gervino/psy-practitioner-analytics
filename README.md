@@ -11,7 +11,7 @@ The following data was manually collected from practitioners' PsychologyToday pr
 - Years in Practice
 - Top Specialties
 - Expertise
-- Gender
+- Gender (Male, Female, Another Gender)
 - Number of Endorsements
 - Practitioner's Province
 
